@@ -2,7 +2,6 @@
 
  Find apk in drive: https://drive.google.com/file/d/1HF252OKvBj0MCAijjZc-UYv27C3rQSlr/view?usp=sharing
 
- ```markdown
 ### Prerequisites
 - Unity 6+ (LTS version recommended)
 - TMDb API key (free account available)
