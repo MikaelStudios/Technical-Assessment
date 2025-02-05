@@ -14,7 +14,7 @@
 |-------|------------|-------------|
 | **Data** | `MovieData`, `TmdbSearchResponse` | API response models and DTOs |
 | **Service** | `TmdbMovieService`, `CacheSystem` | API communication and caching |
-| **UI** | `SearchViewController`, `MovieDetailController` | View controllers and components |
+| **UI** | `SearchViewController`, `MovieDetailController`, `MovieItemComponent` | View controllers and components |
 | **Infra** | `MemoryCache`, `FileCache` | Caching implementations |
 
 ### Key Flow
@@ -62,3 +62,15 @@ graph TD
    - Limited to 40 requests/10 seconds
    - No localized results (English-only)
 
+4. **CI/CD workflow**
+    - Unable to activate the Unity License required for making remote builds
+
+
+## Dependencies
+
+- **Cysharp UniTask**: A library for providing async/await support in Unity.
+  - [GitHub Repository](https://github.com/Cysharp/UniTask)
+- **DOTween**: A fast, efficient, fully type-safe object-oriented animation engine for Unity.
+  - [Website](http://dotween.demigiant.com/)
+- **nunit.framework.dll**: A unit-testing framework for all .Net languages.
+- **Moq.dll**: A library for creating mock objects in .Net.
