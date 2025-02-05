@@ -44,6 +44,7 @@ graph TD
 ### 2. API Handling
 - **Async/Await**: Non-blocking UI during 800-1200ms API calls
 - **Rate Limiting**: 40 req/10sec (TMDb policy compliance)
+- **No localized results** (English-only)
 
 ### 3. UI Architecture
 - **MVC Pattern**: Separation of view/logic
@@ -59,12 +60,8 @@ graph TD
 2. **Image Handling**
    - No progressive JPEG loading
    - Memory spikes with 50+ concurrent requests
-
-3. **API Constraints**
-   - Limited to 40 requests/10 seconds
-   - No localized results (English-only)
-
-4. **CI/CD workflow**
+    
+3. **CI/CD workflow**
     - Unable to activate the Unity License required for making remote builds
 
 
