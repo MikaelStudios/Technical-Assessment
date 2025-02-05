@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: df214f6d0d948af49b2576f8ad2b85b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8230462190164804641
+    second: svgviewer-png-output_0
+  - first:
+      213: 3627574190921349915
+    second: svgviewer-png-output_1
+  - first:
+      213: 5857305834885217780
+    second: svgviewer-png-output_2
+  - first:
+      213: -4555068484081509205
+    second: svgviewer-png-output_3
+  - first:
+      213: -2751577905257991051
+    second: svgviewer-png-output_4
+  - first:
+      213: -2318222237860044309
+    second: svgviewer-png-output_5
+  - first:
+      213: -8398066118129119736
+    second: svgviewer-png-output_6
+  - first:
+      213: -9022519141276424568
+    second: svgviewer-png-output_7
+  - first:
+      213: 7789073933696493158
+    second: svgviewer-png-output_8
+  - first:
+      213: -8870339925794050988
+    second: svgviewer-png-output_9
+  - first:
+      213: -4193525214613800598
+    second: svgviewer-png-output_10
+  - first:
+      213: 4925238420960385416
+    second: svgviewer-png-output_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: svgviewer-png-output_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 141
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1248e0e41c9783270800000000000000
+      internalID: 8230462190164804641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svgviewer-png-output_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 489
+        width: 156
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bfd36c18bb75230800000000000000
+      internalID: 3627574190921349915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svgviewer-png-output_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 489
+        width: 128
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdf72d9f94594150800000000000000
+      internalID: 5857305834885217780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svgviewer-png-output_3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 489
+        width: 344
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac9eb6f85529c0c0800000000000000
+      internalID: -4555068484081509205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svgviewer-png-output_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 244
+        width: 202
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574b841497e60d9d0800000000000000
+      internalID: -2751577905257991051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svgviewer-png-output_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 244
+        width: 179
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1e0f9382504dfd0800000000000000
+      internalID: -2318222237860044309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svgviewer-png-output_6
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 244
+        width: 178
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e8ba44c53147b80800000000000000
+      internalID: -8398066118129119736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svgviewer-png-output_7
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 244
+        width: 42
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8866e05f4a299c280800000000000000
+      internalID: -9022519141276424568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svgviewer-png-output_8
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 244
+        width: 128
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666eb337979581c60800000000000000
+      internalID: 7789073933696493158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svgviewer-png-output_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 499
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ca416a5d836e480800000000000000
+      internalID: -8870339925794050988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svgviewer-png-output_10
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 0
+        width: 166
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69fc4a190b9dc5c0800000000000000
+      internalID: -4193525214613800598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: svgviewer-png-output_11
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 0
+        width: 140
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8891373bf36f95440800000000000000
+      internalID: 4925238420960385416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      svgviewer-png-output_0: 8230462190164804641
+      svgviewer-png-output_1: 3627574190921349915
+      svgviewer-png-output_10: -4193525214613800598
+      svgviewer-png-output_11: 4925238420960385416
+      svgviewer-png-output_2: 5857305834885217780
+      svgviewer-png-output_3: -4555068484081509205
+      svgviewer-png-output_4: -2751577905257991051
+      svgviewer-png-output_5: -2318222237860044309
+      svgviewer-png-output_6: -8398066118129119736
+      svgviewer-png-output_7: -9022519141276424568
+      svgviewer-png-output_8: 7789073933696493158
+      svgviewer-png-output_9: -8870339925794050988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

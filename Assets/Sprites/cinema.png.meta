@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 5d2f1a72d309be0409a6a63fccfb15a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1426362317923036474
+    second: cinema_0
+  - first:
+      213: -8058470826498077393
+    second: cinema_1
+  - first:
+      213: -5351470138790261487
+    second: cinema_2
+  - first:
+      213: -5689850169659313497
+    second: cinema_3
+  - first:
+      213: -3872771782672712066
+    second: cinema_4
+  - first:
+      213: -8349152502459024185
+    second: cinema_5
+  - first:
+      213: 5917565518742419903
+    second: cinema_6
+  - first:
+      213: 8875697713182967357
+    second: cinema_7
+  - first:
+      213: -2106643287724192045
+    second: cinema_8
+  - first:
+      213: -3887309117760035931
+    second: cinema_9
+  - first:
+      213: -2240360816656776128
+    second: cinema_10
+  - first:
+      213: -1751190405263489523
+    second: cinema_11
+  - first:
+      213: 6993751248946901958
+    second: cinema_12
+  - first:
+      213: -2443497147293466443
+    second: cinema_13
+  - first:
+      213: 5643346083490686295
+    second: cinema_14
+  - first:
+      213: 1782362032424171916
+    second: cinema_15
+  - first:
+      213: -7074603796245196190
+    second: cinema_16
+  - first:
+      213: -2936447406271122394
+    second: cinema_17
+  - first:
+      213: -8278769425598698425
+    second: cinema_18
+  - first:
+      213: 5085389498256714937
+    second: cinema_19
+  - first:
+      213: -4034584592589510702
+    second: cinema_20
+  - first:
+      213: 5984423567353335193
+    second: cinema_21
+  - first:
+      213: 8547246742875365491
+    second: cinema_22
+  - first:
+      213: -5584685221420763707
+    second: cinema_23
+  - first:
+      213: -4705789048451369015
+    second: cinema_24
+  - first:
+      213: -688350088948093782
+    second: cinema_25
+  - first:
+      213: 8878402639732265454
+    second: cinema_26
+  - first:
+      213: 5623637541480749703
+    second: cinema_27
+  - first:
+      213: -419984801679900172
+    second: cinema_28
+  - first:
+      213: 8127236837979860671
+    second: cinema_29
+  - first:
+      213: 8429249123175826033
+    second: cinema_30
+  - first:
+      213: -1956380615764541148
+    second: cinema_31
+  - first:
+      213: -10751201703997442
+    second: cinema_32
+  - first:
+      213: 708605528174451996
+    second: cinema_33
+  - first:
+      213: 5106547380914410987
+    second: cinema_34
+  - first:
+      213: 5150040748880083795
+    second: cinema_35
+  - first:
+      213: 5016102670562436861
+    second: cinema_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cinema_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 406
+        width: 107
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d2ec098f47bc310800000000000000
+      internalID: 1426362317923036474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 482
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dcbb99a7f8a2090800000000000000
+      internalID: -8058470826498077393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 454
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dcb471342cbb5b0800000000000000
+      internalID: -5351470138790261487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 445
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2b244ba679901b0800000000000000
+      internalID: -5689850169659313497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 452
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ef2ad1596214ac0800000000000000
+      internalID: -3872771782672712066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 426
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccbd53e80ad12c80800000000000000
+      internalID: -8349152502459024185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 11
+        width: 436
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9fdb79c7a6f1250800000000000000
+      internalID: 5917565518742419903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 393
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3684007b00dc2b70800000000000000
+      internalID: 8875697713182967357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_8
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 414
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de0dbe5713b3c2e0800000000000000
+      internalID: -2106643287724192045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 380
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3a6c704f08d0ac0800000000000000
+      internalID: -3887309117760035931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 395
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044087a05b3a8e0e0800000000000000
+      internalID: -2240360816656776128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 356
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d068238ca9582b7e0800000000000000
+      internalID: -1751190405263489523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 376
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3bce8d4bbce0160800000000000000
+      internalID: 6993751248946901958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 331
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b084ed6a44f61ed0800000000000000
+      internalID: -2443497147293466443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 339
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755ed0bfc51315e40800000000000000
+      internalID: 5643346083490686295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 323
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8939cb33d83cb810800000000000000
+      internalID: 1782362032424171916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 314
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262dc268455f1dd90800000000000000
+      internalID: -7074603796245196190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 307
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624b79754a4af37d0800000000000000
+      internalID: -2936447406271122394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 299
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c23d9f117eb1d80800000000000000
+      internalID: -8278769425598698425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 283
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bce71c1ecee29640800000000000000
+      internalID: 5085389498256714937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 291
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7207e60b64208c0800000000000000
+      internalID: -4034584592589510702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_21
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 291
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d42951781fc0350800000000000000
+      internalID: 5984423567353335193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_22
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 283
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37063bc90abed9670800000000000000
+      internalID: 8547246742875365491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_23
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 266
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c577da41663f72b0800000000000000
+      internalID: -5584685221420763707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_24
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 255
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7f123facda1beb0800000000000000
+      internalID: -4705789048451369015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_25
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 275
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aace32bbd3d7276f0800000000000000
+      internalID: -688350088948093782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 261
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1d12a392c663b70800000000000000
+      internalID: 8878402639732265454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_27
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 254
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ad2857c8c2b0e40800000000000000
+      internalID: 5623637541480749703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 208
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f18ecc4c0aeb2af0800000000000000
+      internalID: -419984801679900172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_29
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 247
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe224d18deb9c070800000000000000
+      internalID: 8127236837979860671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_30
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 239
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1720b2eda65baf470800000000000000
+      internalID: 8429249123175826033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_31
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 214
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42105eff13a89d4e0800000000000000
+      internalID: -1956380615764541148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_32
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 222
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff4689c6ddc9dff0800000000000000
+      internalID: -10751201703997442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_33
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 209
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d57b839f875d900800000000000000
+      internalID: 708605528174451996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5da1c89c91ed640800000000000000
+      internalID: 5106547380914410987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_35
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 177
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bb8c766ce987740800000000000000
+      internalID: 5150040748880083795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cinema_36
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 127
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df623cb6dc6cc9540800000000000000
+      internalID: 5016102670562436861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cinema_0: 1426362317923036474
+      cinema_1: -8058470826498077393
+      cinema_10: -2240360816656776128
+      cinema_11: -1751190405263489523
+      cinema_12: 6993751248946901958
+      cinema_13: -2443497147293466443
+      cinema_14: 5643346083490686295
+      cinema_15: 1782362032424171916
+      cinema_16: -7074603796245196190
+      cinema_17: -2936447406271122394
+      cinema_18: -8278769425598698425
+      cinema_19: 5085389498256714937
+      cinema_2: -5351470138790261487
+      cinema_20: -4034584592589510702
+      cinema_21: 5984423567353335193
+      cinema_22: 8547246742875365491
+      cinema_23: -5584685221420763707
+      cinema_24: -4705789048451369015
+      cinema_25: -688350088948093782
+      cinema_26: 8878402639732265454
+      cinema_27: 5623637541480749703
+      cinema_28: -419984801679900172
+      cinema_29: 8127236837979860671
+      cinema_3: -5689850169659313497
+      cinema_30: 8429249123175826033
+      cinema_31: -1956380615764541148
+      cinema_32: -10751201703997442
+      cinema_33: 708605528174451996
+      cinema_34: 5106547380914410987
+      cinema_35: 5150040748880083795
+      cinema_36: 5016102670562436861
+      cinema_4: -3872771782672712066
+      cinema_5: -8349152502459024185
+      cinema_6: 5917565518742419903
+      cinema_7: 8875697713182967357
+      cinema_8: -2106643287724192045
+      cinema_9: -3887309117760035931
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

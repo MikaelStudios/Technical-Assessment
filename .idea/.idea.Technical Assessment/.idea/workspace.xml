@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df7e6284-cbd8-4a44-aec1-c6bb1f492972" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/321eb2db7c6d43ea8fc39b54eaca345246ae00/58/d2482555/Task`1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/321eb2db7c6d43ea8fc39b54eaca345246ae00/77/14aaa37d/CancellationToken.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/321eb2db7c6d43ea8fc39b54eaca345246ae00/e9/4097e74f/AsyncTaskMethodBuilder`1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/44f3679c53d1477a9c6e72f269e3a3a91de200/54/55ba52be/Vector2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/44f3679c53d1477a9c6e72f269e3a3a91de200/5b/13f1cf0f/Rect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/44f3679c53d1477a9c6e72f269e3a3a91de200/98/bba40997/Texture2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/44f3679c53d1477a9c6e72f269e3a3a91de200/9a/668c79c3/UnitySynchronizationContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/44f3679c53d1477a9c6e72f269e3a3a91de200/cd/fa5425f1/Texture.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6e0ff4b8016b42cc9117913bee5de47c1e000/c9/049e750a/HttpClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/92af2ecf05fb4b6f9bb29790af8c6dd54000/4d/012ab123/JsonUtility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ed969b0e627d471da4848289f9c322df46ae00/3e/f46bf085/ModuleBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ed969b0e627d471da4848289f9c322df46ae00/7f/b3f1cf97/ExceptionDispatchInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ed969b0e627d471da4848289f9c322df46ae00/8f/b4eca5fe/SynchronizationContextAwaitTaskContinuation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ed969b0e627d471da4848289f9c322df46ae00/fd/b9328f2d/Encoding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/443ce614ff11fd4152a3c735dec9ef388c537ef8ea9c24e0f018f1bd619e85/JObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tests/Services/TmdbMovieServiceTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Components/MovieItemComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Utilities/Custom AnimationStepBase/SelectableInteractable.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2sY91wI2qQaWPG8rVnhQObSHH7N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Attach to Unity Editor.Attach to Unity Editor.executor&quot;: &quot;Debug&quot;,
+    &quot;HTTP Request.generated-requests | #1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JSON&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" executionIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.3f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath &quot;C:\Users\magic\Documents\GitHub\Technical Assessment&quot; -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\magic\Documents\GitHub\Technical Assessment" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.3f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;C:\Users\magic\Documents\GitHub\Technical Assessment&quot; -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\magic\Documents\GitHub\Technical Assessment" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df7e6284-cbd8-4a44-aec1-c6bb1f492972" name="Changes" comment="" />
+      <created>1738621431565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738621431565</updated>
+      <workItem from="1738621432302" duration="24076000" />
+      <workItem from="1738673573358" duration="15547000" />
+      <workItem from="1738710984661" duration="11910000" />
+      <workItem from="1738728387409" duration="299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Core/Services/Cache/CacheSystem.cs</url>
+          <line>22</line>
+          <properties documentPath="C:\Users\magic\Documents\GitHub\Technical Assessment\Assets\Scripts\Core\Services\Cache\CacheSystem.cs" containingFunctionPresentation="Method 'FetchStringAsync'">
+            <startOffsets>
+              <option value="654" />
+            </startOffsets>
+            <endOffsets>
+              <option value="760" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
