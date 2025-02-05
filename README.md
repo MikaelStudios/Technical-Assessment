@@ -2,6 +2,8 @@
 
 ## Find apk 📲 in drive: https://drive.google.com/file/d/1HF252OKvBj0MCAijjZc-UYv27C3rQSlr/view?usp=sharing
 
+https://github.com/user-attachments/assets/47a786aa-e6a4-493f-be83-3c1ba2eeec27
+
 ### Prerequisites
 - Unity 6+ (LTS version recommended)
 - TMDb API key (free account available)
